@@ -1,12 +1,5 @@
-# REM-Member Prototype
+# REM-Member Full Prototype
 
-This is a simplified prototype for REM-Member, including a buyer/seller dashboard.
+This is a deploy-ready version of the REM-Member prototype with Next.js, Tailwind CSS, and working pages.
 
-## 🚀 Deploy to Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
-
-## 🔧 Tech Stack
-- Next.js
-- Tailwind CSS
-- ShadCN UI
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import)
